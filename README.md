@@ -2,7 +2,7 @@
 
 Projeto de portfólio em SQL. Respondo 8 perguntas de negócio de um e-commerce usando só SQL no Google BigQuery: receita, margem, devoluções, recompra, retenção, canais de aquisição, logística e segmentação de clientes.
 
-**Autor:** Felipe Gonzaga · [LinkedIn](https://www.linkedin.com/in/felipe-gonzaga-b3173b143/)
+**Autor:** Felipe Gonzaga · [LinkedIn](https://www.linkedin.com/in/felipe-gonzaga-dados/)
 
 ---
 
